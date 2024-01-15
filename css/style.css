@@ -31,10 +31,14 @@ margin: 0;
     font-weight: bold;
 }
 .top-menu a:visited{
-    color: yellow;
+    color: rgb(114, 12, 12);
 }
 .top-menu a:hover{
     color: red
+}
+.top-menu a:active{
+
+    color: #811b1b;
 }
 h1{
 font-family: Georgia, 'Times New Roman', Times, serif;
