@@ -38,8 +38,18 @@ footer{
     flex-direction: column;
     text-align: center;
     background-color: beige;
-    padding: 1em;
+    padding: 0em;
     bottom: 0;
     position: fixed;
     width: 100%;
+}
+.Tables{
+    padding: 2em;
+    font-size: 20px;
+    font-style: italic;
+}
+.Form{
+    padding: 10em;
+    font-weight: bold;
+    font-style: italic;
 }
