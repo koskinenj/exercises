@@ -6,6 +6,15 @@ body{
 main{
     display: flex;
 }
+nav{
+    background-color:burlywood;
+    padding: 0.2em;
+ }
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
 #sidebar{
     flex-basis: 150px;
     background: rgb(200, 198, 198);
